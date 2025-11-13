@@ -52,6 +52,7 @@ AdriPOS nació del amor por una mujer emprendedora —mi esposa Adriana— y del
 ## 📸 Capturas (próximamente)
 
 > Aquí irán imágenes de la app en acción, pantallas clave y flujos de uso.
+<img width="1024" height="1024" alt="logoAdriPOS" src="https://github.com/user-attachments/assets/28b3f4e8-645a-44fb-8858-17d1535b410a" />
 
 ---
 
